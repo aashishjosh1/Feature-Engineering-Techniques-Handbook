@@ -9,11 +9,7 @@ Python
 ## Feature Engineering Techniques Implemented
 1. Standardization (Scaling)
 2. Normalization (Scaling)
-<br />
 3. One-Hot Encoding (Encoding)
-<br />
 4. Label Encoding (Encoding)
-<br />
 5. Data Imputation
-<br />
 6. Binning
