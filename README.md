@@ -7,15 +7,14 @@ Feature engineering is performed for improving accuracy and training speed of th
 Python
 <br />
 ## Feature Engineering Techniques Implemented
+1. Standardization (Scaling)
 <br />
-Standardization (Scaling)
+2. Normalization (Scaling)
 <br />
-Normalization (Scaling)
+3. One-Hot Encoding (Encoding)
 <br />
-One-Hot Encoding (Encoding)
+4. Label Encoding (Encoding)
 <br />
-Label Encoding (Encoding)
+5. Data Imputation
 <br />
-Data Imputation
-<br />
-Binning
+6. Binning
